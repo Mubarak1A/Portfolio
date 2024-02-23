@@ -2443,3 +2443,24 @@ input, select, textarea {
 					}
 
 	}
+
+
+/*  mine style */
+.technologies {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.technology {
+	margin: 20px;
+}
+
+h2 {
+	font-size: 32px !important;
+}
+
+.wrapper {
+	padding-top: 40px !important;
+	padding-bottom: 40px !important;
+}
